@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-class BasicServiceTest extends TestCase
+class InspectionServiceTest extends TestCase
 {
     /**
      * @test
