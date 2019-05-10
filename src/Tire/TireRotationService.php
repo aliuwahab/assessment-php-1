@@ -3,7 +3,7 @@ namespace App\Tire;
 
 use App\BasicService;
 
-class TireRotation extends BasicService{
+class TireRotationService extends BasicService{
 
 protected $charge;
 

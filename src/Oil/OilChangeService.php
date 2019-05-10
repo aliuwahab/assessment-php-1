@@ -4,7 +4,7 @@ namespace App\Oil;
 
 use App\BasicService;
 
-class OilChange extends BasicService {
+class OilChangeService extends BasicService {
 
 protected $charge;
 
