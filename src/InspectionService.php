@@ -1,7 +1,7 @@
 <?php
 namespace App;
 
-class BasicService {
+class InspectionService {
 protected $fee;
 
 public function __construct($fee){

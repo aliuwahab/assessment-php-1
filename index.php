@@ -3,7 +3,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 // Faiq
-$service = new App\BasicService(50);
+$service = new App\InspectionService(50);
 $faiqCharge =  $service->computeCharge();
 echo "\nFaiq charge: {$faiqCharge}";
 

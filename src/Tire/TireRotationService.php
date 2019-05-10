@@ -1,9 +1,9 @@
 <?php
 namespace App\Tire;
 
-use App\BasicService;
+use App\InspectionService;
 
-class TireRotationService extends BasicService{
+class TireRotationService extends InspectionService{
 
 protected $charge;
 
